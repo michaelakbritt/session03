@@ -13,35 +13,29 @@
                 <li><a href="#about">About Greece</a></li>
                 <li><a href="#destinations">Top Destinations</a></li>
                 <li><a href="#culture">Culture</a></li>
-                <li><a href="#contact">Contact Us</a></li>
             </ul>
         </nav>
     </header>
 
     <section id="about">
         <h2>About Greece</h2>
-        <p>Discover the beauty, history, and culture of Greece. A land of ancient ruins, stunning beaches, and vibrant cities.</p>
-        <img src="images/greece-sunset.jpg" alt="Greek Sunset">
+        <p>Discover the beauty, history, and culture of Greece. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        <img src="images/church.jpg" alt="church">
     </section>
 
     <section id="destinations">
         <h2>Top Destinations</h2>
-        <p>Explore Greece's most famous destinations, from the beaches of Mykonos to the historic ruins of Athens.</p>
-        <img src="images/acropolis.jpg" alt="Acropolis of Athens">
+        <p>Explore Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <img src="images/greece.jpg" alt="greece">
     </section>
 
     <section id="culture">
         <h2>Culture & Traditions</h2>
-        <p>Learn about Greece's rich cultural heritage, including its festivals, cuisine, and ancient traditions.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
         <img src="images/greece-beach.jpg" alt="Greek Beach">
     </section>
 
-    <section id="contact">
-        <h2>Contact Us</h2>
-        <p>Get in touch for more information or travel inquiries.</p>
-    </section>
-
-    <footer>
+   <footer>
         <p>&copy; 2025 Visit Greece. All rights reserved.</p>
     </footer>
 
